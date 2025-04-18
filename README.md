@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritik Sharma
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Tech
 - 🌱 I’m currently working as a Software Engineer 
 - 💞️ I’m looking to collaborate on Tech Products
 - 📫 How to reach me dev.reetik@gmail.com
