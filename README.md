@@ -1,10 +1,9 @@
 <p><img align="center" src="https://login.actualisation.ai/images/bck.png" alt="hey-reetik" /></p>
 
+<h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
+<h3 align="center">A Software Developer from India</h3>
 
-
-- 👋 Hi, I’m Ritik Sharma
 - 👀 I’m interested in Tech
-- 🌱 I’m currently working as a Software Engineer at Actualisation Group
 - 💞️ I’m looking to collaborate on Tech Products
 - 📫 How to reach me ritik@actualisation.ai
 - 😄 Pronouns: he/him
