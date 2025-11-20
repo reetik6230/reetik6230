@@ -1,7 +1,7 @@
 <p><img align="center" src="https://login.actualisation.ai/images/bck.png" alt="hey-reetik" /></p>
 
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
-<h3 align="center">A Software Developer from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 
 - 👀 I’m interested in Tech
 - 💞️ I’m looking to collaborate on Tech Products
