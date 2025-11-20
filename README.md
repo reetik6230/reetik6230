@@ -1,5 +1,6 @@
 <p><img align="center" src="https://login.actualisation.ai/images/ActualisationLogo.png" alt="hey-reetik" /></p>
 
+<h1 align="center" ></h1>
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
 <h3 align="center">A Software Engineer from India</h3>
 
