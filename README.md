@@ -1,3 +1,7 @@
+<p><img align="center" src="https://login.actualisation.ai/images/bck.png" alt="hey-reetik" /></p>
+
+
+
 - 👋 Hi, I’m Ritik Sharma
 - 👀 I’m interested in Tech
 - 🌱 I’m currently working as a Software Engineer at Actualisation Group
