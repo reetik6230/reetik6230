@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ritik Sharma
 - 👀 I’m interested in Tech
-- 🌱 I’m currently working as a Software Engineer 
+- 🌱 I’m currently working as a Software Engineer at Actualisation Group
 - 💞️ I’m looking to collaborate on Tech Products
-- 📫 How to reach me dev.reetik@gmail.com
+- 📫 How to reach me ritik@actualisation.ai
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am also interested in embedded projects.
 
